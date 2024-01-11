@@ -1,2 +1,2 @@
-int edad;
+int altura;
 String nombre;
